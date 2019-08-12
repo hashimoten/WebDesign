@@ -56,6 +56,7 @@ header{
     margin: 0 20px;
     font-size: 20px;
     list-style: none;
+    font-family: 'Bitter', serif;
 }
 
 .global-nav li a{
@@ -85,4 +86,11 @@ footer{
 
 footer small{
     font-size: 12px;
+}
+
+#index h1{
+    font-size: 100px;
+    line-height: 1;
+    color: #ffffff;
+    font-family: 'Bitter',serif;
 }
